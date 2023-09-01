@@ -19,6 +19,9 @@ https://drive.google.com/drive/folders/1_6qRthn8L7HPvPg9hYAj-d9_rZP0XGNP?usp=sha
 - **Order Placement**: Securely place orders with immediate confirmation.
 - **Order History**: Access your order history for easy reordering.
 
+- **Swagger Documentation**: https://triveous-k3tc.onrender.com/api-docs/
+- **Rate Limiting**: Limited to 100 request per IP for 15 minutes.
+
 
 ## Installation & Getting Started
 
