@@ -6,7 +6,10 @@ Simple Online Store is an easy-to-use web application that simplifies online sho
 
 ## Deployed App
 
-Visit the live app at [Simple Online Store](https://simpleonlinestore.com).
+Visit the live app at [Simple Online Store](https://triveous-k3tc.onrender.com/).
+
+## Video Walkthrough of the project
+https://drive.google.com/drive/folders/1_6qRthn8L7HPvPg9hYAj-d9_rZP0XGNP?usp=sharing
 
 ## Features
 
@@ -20,10 +23,10 @@ Visit the live app at [Simple Online Store](https://simpleonlinestore.com).
 ## Installation & Getting Started
 
 1. Clone the repository:
-git clone https://github.com/your-username/simple-online-store.git
+git clone https://github.com/hrsht339/triveous
 
 2. Navigate to the project directory:
-cd simple-online-store
+cd triveous
 
 3. Install dependencies:
 npm install
@@ -36,7 +39,7 @@ Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
 
 ## Usage
 
-1. Visit the live app at [Simple Online Store](https://simpleonlinestore.com).
+1. Visit the live app at [Simple Online Store](https://triveous-k3tc.onrender.com/).
 2. Sign up for an account or log in if you have one.
 3. Explore the product catalog, add items to your cart, and proceed to checkout.
 4. Provide shipping and payment information to complete your order.
@@ -77,3 +80,12 @@ External APIs used for functionality:
 - Node.js
 - Express.js
 - MongoDB
+- axios
+- bcrypt
+- dotenv
+- express-rate-limit
+- jsonwebtoken
+- mongoose
+- nodemon
+- swagger-jsdoc
+- swagger-ui-express
